@@ -1,0 +1,13 @@
+C:\Users\ran6r\OneDrive\Desktop\C#\11-HelloWorld\bin\Debug\netcoreapp3.1\11-HelloWorld.exe
+C:\Users\ran6r\OneDrive\Desktop\C#\11-HelloWorld\bin\Debug\netcoreapp3.1\11-HelloWorld.deps.json
+C:\Users\ran6r\OneDrive\Desktop\C#\11-HelloWorld\bin\Debug\netcoreapp3.1\11-HelloWorld.runtimeconfig.json
+C:\Users\ran6r\OneDrive\Desktop\C#\11-HelloWorld\bin\Debug\netcoreapp3.1\11-HelloWorld.runtimeconfig.dev.json
+C:\Users\ran6r\OneDrive\Desktop\C#\11-HelloWorld\bin\Debug\netcoreapp3.1\11-HelloWorld.dll
+C:\Users\ran6r\OneDrive\Desktop\C#\11-HelloWorld\bin\Debug\netcoreapp3.1\11-HelloWorld.pdb
+C:\Users\ran6r\OneDrive\Desktop\C#\11-HelloWorld\obj\Debug\netcoreapp3.1\11-HelloWorld.csprojAssemblyReference.cache
+C:\Users\ran6r\OneDrive\Desktop\C#\11-HelloWorld\obj\Debug\netcoreapp3.1\11-HelloWorld.AssemblyInfoInputs.cache
+C:\Users\ran6r\OneDrive\Desktop\C#\11-HelloWorld\obj\Debug\netcoreapp3.1\11-HelloWorld.AssemblyInfo.cs
+C:\Users\ran6r\OneDrive\Desktop\C#\11-HelloWorld\obj\Debug\netcoreapp3.1\11-HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\ran6r\OneDrive\Desktop\C#\11-HelloWorld\obj\Debug\netcoreapp3.1\11-HelloWorld.dll
+C:\Users\ran6r\OneDrive\Desktop\C#\11-HelloWorld\obj\Debug\netcoreapp3.1\11-HelloWorld.pdb
+C:\Users\ran6r\OneDrive\Desktop\C#\11-HelloWorld\obj\Debug\netcoreapp3.1\11-HelloWorld.genruntimeconfig.cache

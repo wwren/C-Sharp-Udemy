@@ -1,0 +1,7 @@
+C:\Users\ran6r\OneDrive\Desktop\C#\18-variables-constants\obj\Debug\18-variables-constants.csprojAssemblyReference.cache
+C:\Users\ran6r\OneDrive\Desktop\C#\18-variables-constants\obj\Debug\18-variables-constants.csproj.CoreCompileInputs.cache
+C:\Users\ran6r\OneDrive\Desktop\C#\18-variables-constants\bin\Debug\18-variables-constants.exe.config
+C:\Users\ran6r\OneDrive\Desktop\C#\18-variables-constants\bin\Debug\18-variables-constants.exe
+C:\Users\ran6r\OneDrive\Desktop\C#\18-variables-constants\bin\Debug\18-variables-constants.pdb
+C:\Users\ran6r\OneDrive\Desktop\C#\18-variables-constants\obj\Debug\18-variables-constants.exe
+C:\Users\ran6r\OneDrive\Desktop\C#\18-variables-constants\obj\Debug\18-variables-constants.pdb
