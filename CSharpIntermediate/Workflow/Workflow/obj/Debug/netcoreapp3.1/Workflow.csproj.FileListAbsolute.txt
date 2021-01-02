@@ -1,0 +1,13 @@
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpIntermediate\Workflow\Workflow\bin\Debug\netcoreapp3.1\Workflow.exe
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpIntermediate\Workflow\Workflow\bin\Debug\netcoreapp3.1\Workflow.deps.json
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpIntermediate\Workflow\Workflow\bin\Debug\netcoreapp3.1\Workflow.runtimeconfig.json
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpIntermediate\Workflow\Workflow\bin\Debug\netcoreapp3.1\Workflow.runtimeconfig.dev.json
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpIntermediate\Workflow\Workflow\bin\Debug\netcoreapp3.1\Workflow.dll
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpIntermediate\Workflow\Workflow\bin\Debug\netcoreapp3.1\Workflow.pdb
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpIntermediate\Workflow\Workflow\obj\Debug\netcoreapp3.1\Workflow.csprojAssemblyReference.cache
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpIntermediate\Workflow\Workflow\obj\Debug\netcoreapp3.1\Workflow.AssemblyInfoInputs.cache
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpIntermediate\Workflow\Workflow\obj\Debug\netcoreapp3.1\Workflow.AssemblyInfo.cs
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpIntermediate\Workflow\Workflow\obj\Debug\netcoreapp3.1\Workflow.csproj.CoreCompileInputs.cache
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpIntermediate\Workflow\Workflow\obj\Debug\netcoreapp3.1\Workflow.dll
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpIntermediate\Workflow\Workflow\obj\Debug\netcoreapp3.1\Workflow.pdb
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpIntermediate\Workflow\Workflow\obj\Debug\netcoreapp3.1\Workflow.genruntimeconfig.cache
