@@ -1,0 +1,13 @@
+C:\Projects\CSharpIntermediate\Indexers\Indexers\bin\Debug\Indexers.exe.config
+C:\Projects\CSharpIntermediate\Indexers\Indexers\bin\Debug\Indexers.exe
+C:\Projects\CSharpIntermediate\Indexers\Indexers\bin\Debug\Indexers.pdb
+C:\Projects\CSharpIntermediate\Indexers\Indexers\obj\Debug\Indexers.csprojResolveAssemblyReference.cache
+C:\Projects\CSharpIntermediate\Indexers\Indexers\obj\Debug\Indexers.exe
+C:\Projects\CSharpIntermediate\Indexers\Indexers\obj\Debug\Indexers.pdb
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpIntermediate\Section1\Indexers\Indexers\bin\Debug\Indexers.exe.config
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpIntermediate\Section1\Indexers\Indexers\bin\Debug\Indexers.exe
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpIntermediate\Section1\Indexers\Indexers\bin\Debug\Indexers.pdb
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpIntermediate\Section1\Indexers\Indexers\obj\Debug\Indexers.csprojAssemblyReference.cache
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpIntermediate\Section1\Indexers\Indexers\obj\Debug\Indexers.csproj.CoreCompileInputs.cache
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpIntermediate\Section1\Indexers\Indexers\obj\Debug\Indexers.exe
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpIntermediate\Section1\Indexers\Indexers\obj\Debug\Indexers.pdb

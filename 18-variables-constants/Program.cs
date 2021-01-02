@@ -11,8 +11,10 @@ namespace _CSharpFund
     {
         static void Main(string[] args)
         {
-       
-
+            var builder = new StringBuilder();
+            builder.Append('-', 10);
+            Console.WriteLine("what is this doing here");
+            builder.Append("happy new year");
         }
     }
 }

@@ -1,0 +1,2 @@
+INFO: Migrating started at {0}30/12/2020 11:20:22 PM
+INFO: Migrating finished at {0}30/12/2020 11:20:22 PM

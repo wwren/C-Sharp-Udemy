@@ -1,0 +1,13 @@
+C:\Projects\CSharpIntermediate\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.exe.config
+C:\Projects\CSharpIntermediate\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.exe
+C:\Projects\CSharpIntermediate\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.pdb
+C:\Projects\CSharpIntermediate\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.csprojResolveAssemblyReference.cache
+C:\Projects\CSharpIntermediate\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.exe
+C:\Projects\CSharpIntermediate\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.pdb
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpIntermediate\Section1\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.exe.config
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpIntermediate\Section1\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.exe
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpIntermediate\Section1\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.pdb
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpIntermediate\Section1\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.csprojAssemblyReference.cache
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpIntermediate\Section1\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpIntermediate\Section1\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.exe
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpIntermediate\Section1\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.pdb
