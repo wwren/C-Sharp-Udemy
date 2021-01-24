@@ -1,0 +1,13 @@
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpAdvance\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.exe
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpAdvance\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.deps.json
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpAdvance\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.runtimeconfig.json
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpAdvance\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.runtimeconfig.dev.json
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpAdvance\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.dll
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpAdvance\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.pdb
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpAdvance\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.csprojAssemblyReference.cache
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpAdvance\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.AssemblyInfoInputs.cache
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpAdvance\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.AssemblyInfo.cs
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpAdvance\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.csproj.CoreCompileInputs.cache
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpAdvance\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.dll
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpAdvance\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.pdb
+C:\Users\ran6r\OneDrive\Desktop\C#\CSharpAdvance\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.genruntimeconfig.cache

@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System;
 
 namespace Workflow
 {
@@ -6,13 +7,14 @@ namespace Workflow
     {
         static void Main(string[] args)
         {
-            List<IActivity> workflow = new List<IActivity>();
+            Workflow workflow = new Workflow();
+
             workflow.Add(new UploadVideo("uploading a video to a cloud storage"));
             workflow.Add(new CallServer("calling a web service"));
             workflow.Add(new SendEmail("sending an email to the video-owner"));
 
-            WorkflowEngine workflowEngine = new WorkflowEngine(workflow);
-            workflowEngine.Run();
+            WorkflowEngine workflowEngine = new WorkflowEngine();
+            workflowEngine.Run(workflow);
         }
     }
 }

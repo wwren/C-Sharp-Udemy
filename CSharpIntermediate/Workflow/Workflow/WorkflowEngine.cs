@@ -1,18 +1,41 @@
 ﻿using System.Collections.Generic;
+using System;
 
 namespace Workflow
 {
+    public interface IWorkflow
+    {
+        void Add(IActivity activity);
+        void Remove(IActivity activity);
+        List<IActivity> GetActivity();
+    }
+
+    public class Workflow : IWorkflow
+    {
+        private  readonly List<IActivity> _workflow = new List<IActivity>();
+
+        public void Add(IActivity activity)
+        {
+            _workflow.Add(activity);
+        }
+
+        public void Remove(IActivity activity)
+        {
+            _workflow.Remove(activity);
+        }
+
+        public  List<IActivity> GetActivity()
+        {
+            return _workflow; //return a readonly list
+        }
+    }
+
     public class WorkflowEngine
     {
-        private readonly List<IActivity> _activities = new List<IActivity>();
 
-        public WorkflowEngine(List<IActivity> activities)
+        public void Run(Workflow workflow)
         {
-            activities.ForEach(activity => _activities.Add(activity));
-        }
-        public void Run()
-        {
-            _activities.ForEach(activity => activity.Execute());
+            workflow.GetActivity().ForEach(activity => activity.Execute());
         }
     }
 }

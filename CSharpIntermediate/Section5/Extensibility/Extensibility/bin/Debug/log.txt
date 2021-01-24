@@ -1,2 +1,8 @@
-INFO: Migrating started at {0}30/12/2020 11:20:22 PM
-INFO: Migrating finished at {0}30/12/2020 11:20:22 PM
+public class Utility 
+{
+	public T Max<T>(T a, T b) where T: IComparable //a generic method inside a non-genric class
+	{
+	return a.CompareTo(b) > 0 ? a : b;
+	}
+}
+

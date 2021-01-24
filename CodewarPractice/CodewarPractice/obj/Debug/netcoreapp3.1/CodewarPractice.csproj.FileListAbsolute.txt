@@ -1,0 +1,13 @@
+C:\Users\ran6r\OneDrive\Desktop\C#\CodewarPractice\CodewarPractice\bin\Debug\netcoreapp3.1\CodewarPractice.exe
+C:\Users\ran6r\OneDrive\Desktop\C#\CodewarPractice\CodewarPractice\bin\Debug\netcoreapp3.1\CodewarPractice.deps.json
+C:\Users\ran6r\OneDrive\Desktop\C#\CodewarPractice\CodewarPractice\bin\Debug\netcoreapp3.1\CodewarPractice.runtimeconfig.json
+C:\Users\ran6r\OneDrive\Desktop\C#\CodewarPractice\CodewarPractice\bin\Debug\netcoreapp3.1\CodewarPractice.runtimeconfig.dev.json
+C:\Users\ran6r\OneDrive\Desktop\C#\CodewarPractice\CodewarPractice\bin\Debug\netcoreapp3.1\CodewarPractice.dll
+C:\Users\ran6r\OneDrive\Desktop\C#\CodewarPractice\CodewarPractice\bin\Debug\netcoreapp3.1\CodewarPractice.pdb
+C:\Users\ran6r\OneDrive\Desktop\C#\CodewarPractice\CodewarPractice\obj\Debug\netcoreapp3.1\CodewarPractice.csprojAssemblyReference.cache
+C:\Users\ran6r\OneDrive\Desktop\C#\CodewarPractice\CodewarPractice\obj\Debug\netcoreapp3.1\CodewarPractice.AssemblyInfoInputs.cache
+C:\Users\ran6r\OneDrive\Desktop\C#\CodewarPractice\CodewarPractice\obj\Debug\netcoreapp3.1\CodewarPractice.AssemblyInfo.cs
+C:\Users\ran6r\OneDrive\Desktop\C#\CodewarPractice\CodewarPractice\obj\Debug\netcoreapp3.1\CodewarPractice.csproj.CoreCompileInputs.cache
+C:\Users\ran6r\OneDrive\Desktop\C#\CodewarPractice\CodewarPractice\obj\Debug\netcoreapp3.1\CodewarPractice.dll
+C:\Users\ran6r\OneDrive\Desktop\C#\CodewarPractice\CodewarPractice\obj\Debug\netcoreapp3.1\CodewarPractice.pdb
+C:\Users\ran6r\OneDrive\Desktop\C#\CodewarPractice\CodewarPractice\obj\Debug\netcoreapp3.1\CodewarPractice.genruntimeconfig.cache

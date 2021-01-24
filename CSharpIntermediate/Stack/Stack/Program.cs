@@ -7,7 +7,7 @@ namespace Stack
 {
     public class Stack
     {
-        public List<object> _stack { get; } = new List<object>();
+        private readonly List<object> _stack = new List<object>();
 
         public List<object> Get()
         {

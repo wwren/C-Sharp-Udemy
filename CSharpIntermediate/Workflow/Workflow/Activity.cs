@@ -6,7 +6,7 @@ namespace Workflow
     {
         public readonly string activity;
 
-        protected Activity(string activity)
+        public Activity(string activity)
         {
             this.activity = activity;
         }
